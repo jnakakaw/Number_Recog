@@ -1,14 +1,8 @@
 -f https://download.pytorch.org/whl/torch_stable.html
-blinker==1.8.2
-certifi==2024.7.4
-charset-normalizer==3.3.2
-click==8.1.7
 dash==2.17.1
 dash-core-components==2.0.0
 dash-html-components==2.0.0
-dash-table==5.0.0
 dash_canvas==0.1.0
-filelock==3.15.4
 Flask==3.0.3
 fsspec==2024.6.1
 gunicorn==22.0.0
@@ -35,7 +29,7 @@ sympy==1.13.0
 tenacity==8.5.0
 threadpoolctl==3.5.0
 tifffile==2024.7.2
-torch==2.3.1+cpu
+torch==1.13.1+cpu
 typing_extensions==4.12.2
 urllib3==2.2.2
 Werkzeug==3.0.3
