@@ -1,5 +1,4 @@
 import numpy as np
-from skimage import io
 from dash import Dash, html, Input, Output, callback
 from dash.exceptions import PreventUpdate
 from dash_canvas import DashCanvas
