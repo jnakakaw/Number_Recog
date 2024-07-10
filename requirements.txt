@@ -1,3 +1,4 @@
+-f https://download.pytorch.org/whl/torch_stable.html
 blinker==1.8.2
 certifi==2024.7.4
 charset-normalizer==3.3.2
@@ -34,7 +35,7 @@ sympy==1.13.0
 tenacity==8.5.0
 threadpoolctl==3.5.0
 tifffile==2024.7.2
-torch==2.3.1
+torch==2.3.1+cpu
 typing_extensions==4.12.2
 urllib3==2.2.2
 Werkzeug==3.0.3
